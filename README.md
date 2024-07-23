@@ -12,6 +12,8 @@ This project involves scraping titles and preview text from the Mars News websit
    - [Instructions](#instructions-1)
    - [Example Code](#example-code-1)
 4. [Conclusion](#conclusion)
+5. [Acknowledgements](#acknowledgements)
+
 
 ## Introduction
 
@@ -98,3 +100,20 @@ temp_plot
 
 6. **Export the DataFrame to a CSV file**.
 
+## Conclusion
+
+In this project, we successfully scraped and analyzed data from the Mars News website and the Mars Temperature Data Site. By following the instructions, we were able to:
+
+1. **Scrape Titles and Preview Text from Mars News**:
+   - Used automated browsing and Beautiful Soup to extract news titles and previews.
+   - Stored the data in a list of dictionaries.
+
+2. **Scrape and Analyze Mars Weather Data**:
+   - Extracted weather data using Beautiful Soup and organized it into a Pandas DataFrame.
+   - Conducted analysis to answer questions about Martian weather, such as identifying the coldest and warmest months and analyzing atmospheric pressure variations.
+   - Created visualizations and exported the data to a CSV file.
+
+### Acknowledgements
+- Study Group Members:
+  - Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\
+  - Evan Wall - ewall@escoffier.edu - Ewall24
