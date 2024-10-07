@@ -12,8 +12,6 @@ This project involves scraping titles and preview text from the Mars News websit
    - [Instructions](#instructions-1)
    - [Example Code](#example-code-1)
 4. [Conclusion](#conclusion)
-5. [Acknowledgements](#acknowledgements)
-
 
 ## Introduction
 
@@ -113,7 +111,4 @@ In this project, we successfully scraped and analyzed data from the Mars News we
    - Conducted analysis to answer questions about Martian weather, such as identifying the coldest and warmest months and analyzing atmospheric pressure variations.
    - Created visualizations and exported the data to a CSV file.
 
-### Acknowledgements
-- Study Group Members:
-  - Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\
-  - Evan Wall - ewall@escoffier.edu - Ewall24
+
